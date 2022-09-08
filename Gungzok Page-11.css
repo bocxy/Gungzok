@@ -1,0 +1,61 @@
+nav .logo {
+    margin: 10px 0px 0px 5px;
+}
+
+nav .profile {
+    margin: 20px 20px 0px 0px;
+    width: 35px;
+    border-radius: 50%;
+    float: right;
+}
+
+.heading {
+    margin: auto;
+    width: 350px;
+    border: 1px solid #38598b;
+    border-radius: 10px;
+    padding: 5px 5px;
+    vertical-align: middle;
+    font-size: x-large;
+    background-color: #97D2EC;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.row1,
+.row2 {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+
+.row1 .e1 {
+    display: inline-block;
+    border: 1px solid #9896f1;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    font-size: x-large;
+    background-color: #97D2EC;
+    box-shadow: 0 0 30px #00bbf0;
+}
+
+.row1 .e2 {
+    display: inline-block;
+    border: 1px solid #9896f1;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    font-size: x-large;
+    background-color: #97D2EC;
+    box-shadow: 0 0 30px #00bbf0;
+}
+
+.row2 .e3 {
+    margin-top: -50px;
+    display: inline-block;
+    border: 1px solid #9896f1;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    font-size: x-large;
+    background-color: #97D2EC;
+    box-shadow: 0 0 30px #00bbf0;
+}

@@ -1,0 +1,41 @@
+nav .logo {
+    margin: 10px 0px 0px 5px;
+}
+
+nav .profile {
+    margin: 20px 20px 0px 0px;
+    width: 35px;
+    border-radius: 50%;
+    float: right;
+}
+
+.heading {
+    text-align: center;
+    font-size: larger;
+}
+
+.row1 .electrician,
+.cook {
+    margin-left: 50px;
+    width: 250px;
+    height: 150px;
+    margin-top: 5%;
+    border-width: 0;
+    background-color: #97D2EC;
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: 0 0 30px #00bbf0;
+}
+
+.center {
+    text-align: center;
+    margin-top: 2em;
+}
+
+.Button {
+    padding: 7px 20px 8px 20px;
+    text-decoration: none;
+    background-color: #00bbf0;
+    box-shadow: 0 0 30px #00bbf0;
+    color: black;
+}

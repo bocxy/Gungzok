@@ -1,0 +1,50 @@
+nav .logo {
+    margin: 10px 0px 0px 5px;
+}
+
+nav .profile {
+    margin: 20px 20px 0px 0px;
+    width: 35px;
+    border-radius: 50%;
+    float: right;
+}
+
+.row1 {
+    text-align: center;
+    width: 100%;
+}
+
+.row2 {
+    text-align: center;
+    width: 100%;
+}
+
+.row1 .electrician,
+.plumber,
+.carpenter,
+.security {
+    width: 250px;
+    height: 150px;
+    margin: 40px 20px 0 20px;
+    border-color: #0092ca;
+    border-width: 1px;
+    background-color: #97D2EC;
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: 0 0 30px #00bbf0;
+}
+
+.row2 .cook,
+.movers,
+.beautician,
+.medical {
+    width: 250px;
+    height: 150px;
+    margin: 0 20px 0 20px;
+    border-color: #0092ca;
+    border-width: 1px;
+    background-color: #97D2EC;
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: 0 0 30px #00bbf0;
+}

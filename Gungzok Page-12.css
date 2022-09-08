@@ -1,0 +1,48 @@
+nav .logo {
+    margin: 10px 0px 0px 5px;
+}
+
+nav .profile {
+    margin: 20px 20px 0px 0px;
+    width: 35px;
+    border-radius: 50%;
+    float: right;
+}
+
+.heading {
+    margin: auto;
+    width: 350px;
+    border: 1px solid #38598b;
+    border-radius: 10px;
+    padding: 5px 5px;
+    vertical-align: middle;
+    font-size: x-large;
+    background-color: #97D2EC;
+    text-align: center;
+    margin-top: 20px;
+}
+
+form {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 50px;
+    font-size: large;
+}
+
+label {
+    width: 200px;
+    display: inline-block;
+}
+
+.apply,
+.back {
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+}
+
+.back {
+    margin-left: 50px;
+}
